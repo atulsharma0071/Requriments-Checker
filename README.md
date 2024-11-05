@@ -15,4 +15,6 @@ Replace github_url with your GitHub repository URL.
 Run the script to generate a compatibility report in mismatch_report.txt.
 Ideal for researchers, developers, and contributors who need to verify dependency compatibility quickly before running a project.
 
+Authors: Atul Sharma and Kirti Singh
+
 
