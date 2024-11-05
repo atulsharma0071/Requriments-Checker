@@ -1,6 +1,4 @@
 # Requriments-Checker
-A Python tool for automated dependency compatibility checks in GitHub repositories
-
 A Python tool for automated dependency compatibility checks in GitHub repositories.
 
 This repository provides a tool to automate the verification of dependency versions for Python projects. By cloning a specified GitHub repository and analyzing the requirements.txt file, it checks each listed dependency for compatibility with the current environment. Any version mismatches or missing dependencies are logged in a report file, making it easier to ensure the repository's requirements are met.
